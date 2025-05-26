@@ -33,6 +33,7 @@ public class Program {
                 String name = fields[0];
                 Integer votos = Integer.parseInt(fields[1]);
                 Candidates candidates = new Candidates(name,votos);
+
                 if (cadidatesMap.containsKey(candidates)){
                     cadidatesMap.put(candidates, cadidatesMap.get(candidates) + votos);
 
