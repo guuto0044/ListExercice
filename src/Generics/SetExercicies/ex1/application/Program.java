@@ -1,6 +1,6 @@
-package SetExercicies.ex1.application;
+package Generics.SetExercicies.ex1.application;
 
-import SetExercicies.ex1.entities.User;
+import Generics.SetExercicies.ex1.entities.User;
 
 import java.io.BufferedReader;
 import java.io.File;

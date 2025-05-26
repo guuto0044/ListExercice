@@ -1,4 +1,4 @@
-package SetExercicies.ex1.entities;
+package Generics.SetExercicies.ex1.entities;
 
 import java.util.Date;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package SetExercicies.ex2.application;
+package Generics.SetExercicies.ex2.application;
 
 import java.util.HashSet;
 import java.util.Scanner;
